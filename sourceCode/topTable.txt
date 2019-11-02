@@ -1,0 +1,12 @@
+1	AndyCat	48373	26
+2	Jack	36373	24
+3	Kreiser	32573	21
+4	Dav id	25000	17
+5	Christ	24427	15
+6	Sammy	23232	12
+7	Vincent	2500	11
+8	William	1373	6
+9	Phavila	1145	4
+10	Sarah	987	2
+11	Saviola	200	1
+12	Fabio	100	1

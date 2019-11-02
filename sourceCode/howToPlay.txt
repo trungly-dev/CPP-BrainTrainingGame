@@ -1,0 +1,11 @@
+  
+1. The numbers will appear in 5 colums.
+  
+2. Try to remember all appearing numbers or letters
+   in precisely each column.
+  
+3. Write the number or letter you remember at the end of
+   the corresponding column
+  
+4. There are 3 chances to replay at current level of player 
+   before ending game.
