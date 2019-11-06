@@ -24,12 +24,14 @@ According to recent scientific studies, Professor William James of Harvard used 
 
 Players will be requested to register their names to record and compare their highest score achieved with the previous competitors.
     In the ranking table, there are 5 levels corresponding to 5 stars:
+    
       - 1 star: complete 5 levels;
       - 2 stars: complete 10 levels;
       - 3 stars: complete 15 levels;
       - 4 stars: complete 20 levels;
       - 5 stars: complete 25 levels;
       - MASTER: complete 30 levels.
+      
 
 In addition, the player will also receive an analysis which give advice to exercise the brain efficiently.
 
