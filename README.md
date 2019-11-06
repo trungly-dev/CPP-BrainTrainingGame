@@ -1,6 +1,11 @@
-CPP-BrainTrainingGame
+A Brain Training Game
 
 TRAIN MEMORY GAME
+
+---------------------------------------------------------
+
+        Coding in C++ 
+        ref: MS Visual Studio 
 
 ---------------------------------------------------------
 
